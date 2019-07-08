@@ -1,3 +1,6 @@
+## Jetpack Joyride
+Clone of the game built using OPENGL
+
 ### Screenshots
 <div align='center'>
 <p align="center">
